@@ -1,6 +1,6 @@
 {
     "name": "speedyspec/speedyspec-support",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Common Classes used by SpeedySpec Packages",
     "type": "library",
     "license": "BSD-3-Clause",
